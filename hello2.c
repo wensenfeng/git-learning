@@ -2,3 +2,4 @@
 # test line
 int main() {}
 int func() {}
+int foo() {}
